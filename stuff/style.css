@@ -1,0 +1,57 @@
+body{
+    background-image:url('http://i.stack.imgur.com/kx8MT.gif');
+    text-align:center;
+   }  
+   h1{
+     border-width:10px;
+     border-color:white;
+     border-style:dashed;
+     font-size:80px;
+     color:teal;
+     font-family:Arial;
+   }
+   p{
+     font-size:35px;
+     color:teal;
+     font-family:Papyrus;
+   }
+   h5{
+   color:teal;
+   font-family:Brush Script MT;
+   }
+   span{
+   color:teal;
+   font-family:Impact;
+   }
+   h2{
+   color:teal;
+   font-family:Monaco;
+   }
+
+   .lis{
+    
+    
+    padding-left: 33px;
+    padding-right: 25px;
+    display: inline;
+    font-family: fantasy;
+    font-size: 20px;
+    float: left;
+}
+
+a{
+  text-decoration: none;
+}
+
+.lis:hover{
+  font-size: 32px;
+  text-decoration: underline;
+}
+
+.sec{
+  position: fixed;
+  width: 100%;
+  margin-top: 0px;
+  top: 0px;
+  z-index: 10;
+}
